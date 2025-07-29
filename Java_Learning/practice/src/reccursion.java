@@ -1,6 +1,6 @@
 public class reccursion {
     public static void main(String[] args) {
-        System.out.println(reversenum(123,0));
+        System.out.println(fiboancci(5));
                    }
     @SuppressWarnings("unused")
                    static int  SumofDigits(int n){
