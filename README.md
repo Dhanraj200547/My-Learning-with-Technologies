@@ -59,15 +59,15 @@ My-Learning-with-Technologies/
 
    ```bash
    cd Python_Learning
-   ```
+````
 
 3. **Run the scripts**
 
    ```bash
    python filename.py
-   ```
+````
 
-
+---
 
 ##  Goal
 
