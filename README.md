@@ -47,7 +47,9 @@ My-Learning-with-Technologies/
 
 ---
 
-##  How to Use
+---
+
+## How to Use
 
 1. **Clone the repository**
    ```bash
@@ -59,13 +61,13 @@ My-Learning-with-Technologies/
 
    ```bash
    cd Python_Learning
-````
+   ```
 
 3. **Run the scripts**
 
    ```bash
    python filename.py
-````
+   ```
 
 ---
 
@@ -74,9 +76,9 @@ My-Learning-with-Technologies/
 This repository is not just for storing code — it’s a **continuous learning journal**.
 I use it to:
 
-* Practice coding daily.
-* Revisit fundamental concepts.
-* Experiment with different libraries and frameworks.
-* Track my growth as a developer.
+*  Practice coding daily.
+*  Revisit fundamental concepts.
+*  Experiment with different libraries and frameworks.
+*  Track my growth as a developer.
 
-
+---
