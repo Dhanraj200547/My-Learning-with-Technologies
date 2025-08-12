@@ -67,7 +67,7 @@ My-Learning-with-Technologies/
    python filename.py
    ```
 
----
+
 
 ##  Goal
 
@@ -79,4 +79,4 @@ I use it to:
 * Experiment with different libraries and frameworks.
 * Track my growth as a developer.
 
----
+
