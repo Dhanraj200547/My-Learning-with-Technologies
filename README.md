@@ -55,19 +55,18 @@ My-Learning-with-Technologies/
    ```bash
    git clone https://github.com/Dhanraj200547/My-Learning-with-Technologies.git
    cd My-Learning-with-Technologies
-````
+   ````
 
 2. **Navigate to the topic you want to explore**
-
    ```bash
    cd Python_Learning
-   ```
+   ````
 
 3. **Run the scripts**
 
    ```bash
    python filename.py
-   ```
+   ````
 
 ---
 
