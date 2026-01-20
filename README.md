@@ -78,6 +78,6 @@ I use it to:
 *  Practice coding daily.
 *  Revisit fundamental concepts.
 *  Experiment with different libraries and frameworks.
-*  Track my growth as a developer.
+*  Track my growth as a developer...
 
 ---
