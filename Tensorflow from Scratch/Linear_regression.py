@@ -19,8 +19,8 @@
 import tensorflow as tf
 import numpy as np
 
-X = np.array([-40, -10,  0,  8, 15, 22],dtype=float)
-y = np.array([-40,  14, 32, 46, 59, 72],dtype=float)
+X = np.array([-40, -10,  0,  8, 15, 22])
+y = np.array([-40,  14, 32, 46, 59, 72])
 
 model = tf.keras.Sequential([
     tf.keras.layers.Dense(units=1,input_shape=[1])
